@@ -1,0 +1,16 @@
+{
+    "name": "Ashwin Saji Kumar - Software Developer",
+    "short_name": "Ashwin Portfolio",
+    "description": "Software Developer Portfolio - Backend Development & AI Specialist",
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#667eea",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+} 
